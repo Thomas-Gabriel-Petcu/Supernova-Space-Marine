@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 56170d2c8f6115f47af97df3692e7d2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5224653187030769262
+    second: GameLadderMidSheet_0
+  - first:
+      213: 5777579855837800104
+    second: GameLadderMidSheet_1
+  - first:
+      213: -8135386946297039519
+    second: GameLadderMidSheet_2
+  - first:
+      213: -8933347875908749802
+    second: GameLadderMidSheet_3
+  - first:
+      213: -6701649826161547317
+    second: GameLadderMidSheet_4
+  - first:
+      213: -3949695989461868198
+    second: GameLadderMidSheet_5
+  - first:
+      213: -8528863074752228861
+    second: GameLadderMidSheet_6
+  - first:
+      213: 737379244243210793
+    second: GameLadderMidSheet_7
+  - first:
+      213: 228597803111316881
+    second: GameLadderMidSheet_8
+  - first:
+      213: 1364280052613706448
+    second: GameLadderMidSheet_9
+  - first:
+      213: 2111617982570727841
+    second: GameLadderMidSheet_10
+  - first:
+      213: 2076602467012474627
+    second: GameLadderMidSheet_11
+  - first:
+      213: 8388104752532760639
+    second: GameLadderMidSheet_12
+  - first:
+      213: -2249211938090889732
+    second: GameLadderMidSheet_13
+  - first:
+      213: 7892136239270276823
+    second: GameLadderMidSheet_14
+  - first:
+      213: -8918948952919429912
+    second: GameLadderMidSheet_15
+  - first:
+      213: 2420605395932511305
+    second: GameLadderMidSheet_16
+  - first:
+      213: -6227752145830203827
+    second: GameLadderMidSheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameLadderMidSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed4976462b18840800000000000000
+      internalID: 5224653187030769262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_1
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1616
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a62aa894461e2050800000000000000
+      internalID: 5777579855837800104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657d9becac491f80800000000000000
+      internalID: -8135386946297039519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1414
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f771107f560480800000000000000
+      internalID: -8933347875908749802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7259e6df4fef2a0800000000000000
+      internalID: -6701649826161547317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1212
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5127598c6cdf29c0800000000000000
+      internalID: -3949695989461868198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302927ba83463a980800000000000000
+      internalID: -8528863074752228861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1010
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922dcdd0482bb3a00800000000000000
+      internalID: 737379244243210793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d72e2ad742c2300800000000000000
+      internalID: 228597803111316881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 808
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f036ca75eee210800000000000000
+      internalID: 1364280052613706448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a984780e59fd4d10800000000000000
+      internalID: 2111617982570727841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 606
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077af101f291dc10800000000000000
+      internalID: 2076602467012474627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f382b7194d8886470800000000000000
+      internalID: 8388104752532760639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 404
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd468db8a139c0e0800000000000000
+      internalID: -2249211938090889732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de21b46810868d60800000000000000
+      internalID: 7892136239270276823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 202
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec25639e27893480800000000000000
+      internalID: -8918948952919429912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c73fd58c7b79120800000000000000
+      internalID: 2420605395932511305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLadderMidSheet_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 482
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e2d9e5b649299a0800000000000000
+      internalID: -6227752145830203827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

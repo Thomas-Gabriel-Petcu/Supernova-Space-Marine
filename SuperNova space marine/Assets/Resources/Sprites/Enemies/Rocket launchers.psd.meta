@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 925c0aa2765a4f74497766074e1f74f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1647994080891925326
+    second: Rocket launchers_0
+  - first:
+      213: 5578261307742152282
+    second: Rocket launchers_1
+  - first:
+      213: 7759758876725837817
+    second: Rocket launchers_2
+  - first:
+      213: 124483354660477434
+    second: Rocket launchers_3
+  - first:
+      213: -6371146329365362561
+    second: Rocket launchers_4
+  - first:
+      213: 3734401812989616475
+    second: Rocket launchers_5
+  - first:
+      213: -8102707023818462974
+    second: Rocket launchers_6
+  - first:
+      213: 7386756513346111280
+    second: Rocket launchers_7
+  - first:
+      213: 1067970377874045284
+    second: Rocket launchers_8
+  - first:
+      213: 4551633228249847224
+    second: Rocket launchers_9
+  - first:
+      213: -2458295605424505206
+    second: Rocket launchers_10
+  - first:
+      213: 617518000870708542
+    second: Rocket launchers_11
+  - first:
+      213: -1640563710532806954
+    second: Rocket launchers_12
+  - first:
+      213: 3379937608124408748
+    second: Rocket launchers_13
+  - first:
+      213: 1081862361907189881
+    second: Rocket launchers_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocket launchers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf2246c87675d42a85f88f40c34f10
+      internalID: -1647994080891925326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 155
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d7188cc00033429aba1c23b6e1f00
+      internalID: 5578261307742152282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 155
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504964d5c64c5244fb46d7b979c371e6
+      internalID: 7759758876725837817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 155
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48495c655102464082ba928d3ad5a46
+      internalID: 124483354660477434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 155
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05d7517e69283649b262b372a410777
+      internalID: -6371146329365362561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601cf7d2109b7f6458f57b2746cd2e95
+      internalID: 3734401812989616475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 78
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d6ef8d7f66be4fb44817b28718790
+      internalID: -8102707023818462974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 78
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6131dce110c5542b766cf573174596
+      internalID: 7386756513346111280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 78
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095615fe4b4e7442b1cf99cb61240fe
+      internalID: 1067970377874045284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_9
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 78
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1385bee30507c4dbbd54360aa137ae
+      internalID: 4551633228249847224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb842f12818ab44eb503cfecc4e2ac6
+      internalID: -2458295605424505206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c397d41e471224ebf0828ebdacdf5b
+      internalID: 617518000870708542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50acffe6795e4146b532665a0dd3727
+      internalID: -1640563710532806954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_13
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146be0cfee1475849a3e59a6b238140c
+      internalID: 3379937608124408748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket launchers_14
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1
+        width: 261
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84759937d03d092458fdb20a2eaddc8a
+      internalID: 1081862361907189881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

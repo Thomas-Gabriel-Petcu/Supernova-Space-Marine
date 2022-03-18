@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff67f82a826db0a4ca07282a24081357, type: 3}
+  m_Name: Standard LVD
+  m_EditorClassIdentifier: 
+  name: Standard LVD
+  icon: {fileID: 21300000, guid: 955b3a9c8bb6a7d4482d82e6cd7ae7f4, type: 3}
+  defaultItem: 0
+  isStackable: 0
+  maxStack: 0
+  itemType: 6
+  x: -0
+  y: 0
+  z: 0
+  distance: 0.5
+  equipSlot: 4
+  armorModifier: 0
+  damageModifier: 0

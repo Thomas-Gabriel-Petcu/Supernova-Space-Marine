@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Generator
+  - Obstacle
+  - Player_Proj
+  - BossHp
+  - Boss
+  - Item
+  - Trash_Dump
+  - BossMissileLeft
+  - BossMissileRight
+  - LeftLauncher
+  - RightLauncher
+  - LeftTarget
+  - RightTarget
+  - Target
+  - Ladder
+  - LadderBottomCheck
+  - LVL0
+  - LVL1
+  - LVL2
+  - LadderBottomCheck1
+  - Inventory_UI
+  - Inventory.Items Parent
+  - pauseMenuUI
+  - optionsMenuUI
+  - HUD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - EnemyDistance
+  - Player
+  - PlayerProj
+  - LevelLoader
+  - LadderBottomChecker
+  - Ground01
+  - Ground02
+  - LVL0
+  - LVL1
+  - LVL2
+  - LevelLimiter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BACKGROUND
+    uniqueID: 3039331579
+    locked: 0
+  - name: Weldables
+    uniqueID: 2551192997
+    locked: 0
+  - name: Sparks
+    uniqueID: 2781957345
+    locked: 0
+  - name: MIDGROUND
+    uniqueID: 1387900295
+    locked: 0
+  - name: transporter_wing
+    uniqueID: 1045016031
+    locked: 0
+  - name: Player
+    uniqueID: 2456488871
+    locked: 0
+  - name: FOREGROUND
+    uniqueID: 2978263453
+    locked: 0
+  - name: Parallax
+    uniqueID: 3251332789
+    locked: 0
+  - name: UI
+    uniqueID: 4264081605
+    locked: 0
